@@ -9,8 +9,8 @@ The purpose of this project was to create an Express.js back end for the app tha
 * Node.js
 
 ## Screenshot
-![screenshot 1 of notetaker app](public/assets/images/note-taker-1.png)
-![screenshot 2 of notetaker app](public/asset/images/note-taker-1.png)
+![screenshot 1 of notetaker app](public/assets/images/notetaker-1.png)
+![screenshot 2 of notetaker app](public/assets/images/notetaker-2.png)
 
 ## Link
 https://glacial-caverns-40336.herokuapp.com/
