@@ -1,9 +1,29 @@
-{ 
-    "notes": [
-        {
-            "title":"I'm a title!!!",
-            "text":"This is texty text",
-            "id": "1"
-        }
-    ]
+{
+  "notes": [
+    {
+      "title": "I'm a title!!!",
+      "text": "This is texty text",
+      "id": "0"
+    },
+    {
+      "title": "now?",
+      "text": "noww...",
+      "id": "1"
+    },
+    {
+      "title": "will it work?",
+      "text": "hm??",
+      "id": 3
+    },
+    {
+      "title": "this be it je pense",
+      "text": "oui",
+      "id": "3"
+    },
+    {
+      "title": "should i save?",
+      "text": "hm?",
+      "id": "4"
+    }
+  ]
 }
