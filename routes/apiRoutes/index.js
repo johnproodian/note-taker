@@ -1,10 +1,10 @@
 // import express router to be able to modularize the routes
 const router = require('express').Router();
 
-// const whateverTypeOfRoutesIUseHere = require('../apiRoutes/aforementionedroutesfilein the same directory)
+const noteRoutes = require('../apiRoutes/noteRoutes.js');
 // another if needed
 
-// router.use(consts from above)
+router.use(noteRoutes);
 // another if needed
 
 module.exports = router;
