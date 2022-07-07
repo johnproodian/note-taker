@@ -17,9 +17,9 @@ My role in this project was to create an Express.js back end for the app that sa
 https://glacial-caverns-40336.herokuapp.com/
 
 ## (Recently Learned) Skills I Used
-* configuring an Express.js back end to serve static HTML files
-* configuring an Express.js back end to create an API to handle GET and POST requests
-* parsing parameters in server-side routes
-* submitting form data to a server
-* implementing separation of concerns for routing
-* deploying a server-side application to Heroku
+* Configuring an Express.js back end to serve static HTML files
+* Configuring an Express.js back end to create an API to handle GET and POST requests
+* Parsing parameters in server-side routes
+* Submitting form data to a server
+* Implementing separation of concerns for routing
+* Deploying a server-side application to Heroku
