@@ -1,6 +1,6 @@
 # Note Taker
 
-This application allows a user to write and save notes. 
+This application allows a user to write, save, and delete notes. 
 
 My role in this project was to create an Express.js back end for the app that saves and retreives note data from a JSON file.
 
