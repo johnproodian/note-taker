@@ -1,7 +1,8 @@
 # Note Taker
-This app allows a user to track personal transactions. Each transaction is added to the table and the graph below tracking income and expense over time (or, more precisely, over number of transactions) is adjusted.
 
-The purpose of this project was to create an Express.js back end for the app that saves and retreives note data from a JSON file.
+This application allows a user to write and save notes. 
+
+My role in this project was to create an Express.js back end for the app that saves and retreives note data from a JSON file.
 
 ## Built With
 * JavaScript
@@ -14,3 +15,11 @@ The purpose of this project was to create an Express.js back end for the app tha
 
 ## Link
 https://glacial-caverns-40336.herokuapp.com/
+
+## (Recently Learned) Skills I Used
+* configuring an Express.js back end to serve static HTML files
+* configuring an Express.js back end to create an API to handle GET and POST requests
+* parsing parameters in server-side routes
+* submitting form data to a server
+* implementing separation of concerns for routing
+* deploying a server-side application to Heroku
